@@ -1,0 +1,62 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                    BIENVENUE DANS ZITELOU                           ║
+║            Le téléphone sécurisé pour vos enfants                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+
+📱 VOUS AVEZ DANS CE DOSSIER :
+
+   ✅ zitelou.apk                    → L'application à installer
+   ✅ INSTALLER-ZITELOU-WINDOWS.bat  → Pour Windows (double-clic)
+   ✅ installer-zitelou-mac.sh       → Pour Mac (double-clic)
+   ✅ installer-zitelou-linux.sh     → Pour Linux (double-clic)
+   ✅ MODE-EMPLOI-COMPLET.pdf        → Guide illustré avec photos
+
+
+🚀 INSTALLATION RAPIDE (5 MINUTES) :
+
+   1. PRÉPAREZ LE TÉLÉPHONE (important !)
+      → Réinitialisez-le complètement (paramètres d'usine)
+      → Ne mettez AUCUN compte Google
+      → Activez le "Débogage USB" (voir le guide)
+
+   2. CONNECTEZ LE TÉLÉPHONE
+      → Branchez le téléphone à votre ordinateur avec un câble USB
+
+   3. LANCEZ LE SCRIPT
+      → Windows : Double-cliquez sur "INSTALLER-ZITELOU-WINDOWS.bat"
+      → Mac : Double-cliquez sur "installer-zitelou-mac.sh"
+      → Linux : Double-cliquez sur "installer-zitelou-linux.sh"
+
+   4. SUIVEZ LES INSTRUCTIONS
+      → Le script s'occupe de tout automatiquement !
+
+
+⚠️ TRÈS IMPORTANT :
+
+   ► Le téléphone DOIT être réinitialisé (vierge)
+   ► SANS compte Google configuré
+   ► Sinon l'installation échouera !
+
+
+📚 BESOIN D'AIDE ?
+
+   → Consultez le "MODE-EMPLOI-COMPLET.pdf" (avec photos)
+   → Contactez le support : support@zitelou.com
+   → Site web : www.zitelou.com
+
+
+💡 ASTUCE :
+
+   Si vous ne savez pas comment réinitialiser votre téléphone ou activer
+   le débogage USB, consultez le guide PDF qui explique TOUT en détail
+   avec des captures d'écran !
+
+
+────────────────────────────────────────────────────────────────────────
+
+Bon courage ! L'installation ne prend que 5 minutes si vous suivez 
+les étapes. 🎉
+

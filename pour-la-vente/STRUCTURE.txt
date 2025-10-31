@@ -1,0 +1,260 @@
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                    PACKAGE ZITELOU - POUR LA VENTE                    ║
+║                          Version 1.0 - 2025                           ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+
+📦 CONTENU DU DOSSIER "pour-la-vente"
+══════════════════════════════════════════════════════════════════════
+
+pour-la-vente/
+│
+├── 📱 zitelou.apk (25 MB)
+│   └─→ Application Android à installer sur le téléphone
+│
+├── 🎯 POUR LES CLIENTS (À LIRE EN PREMIER)
+│   │
+│   ├── 📄 LISEZ-MOI-EN-PREMIER.txt ⭐ [COMMENCER ICI]
+│   │   └─→ Accueil, résumé rapide, liste des fichiers
+│   │
+│   ├── 🚀 DEMARRAGE-RAPIDE.txt
+│   │   └─→ Guide visuel en 3 étapes avec schémas ASCII
+│   │
+│   ├── 📘 MODE-EMPLOI-COMPLET.md
+│   │   └─→ Guide détaillé avec solutions aux problèmes
+│   │
+│   └── 📋 AIDE-MEMOIRE.md
+│       └─→ Version courte imprimable (1 page)
+│
+├── 💻 SCRIPTS D'INSTALLATION AUTOMATIQUE
+│   │
+│   ├── INSTALLER-ZITELOU-WINDOWS.bat
+│   │   └─→ Pour Windows 7/8/10/11 (double-clic)
+│   │
+│   ├── installer-zitelou-mac.sh
+│   │   └─→ Pour macOS 10.9+ (double-clic)
+│   │
+│   └── installer-zitelou-linux.sh
+│       └─→ Pour Linux (Ubuntu, Debian, Fedora, Arch...)
+│
+└── 📚 DOCUMENTATION TECHNIQUE (POUR VOUS)
+    │
+    ├── README.md
+    │   └─→ Vue d'ensemble du package (pour revendeurs)
+    │
+    ├── GUIDE-DISTRIBUTION-VENDEUR.md
+    │   └─→ Comment distribuer ce package aux clients
+    │
+    └── STRUCTURE.txt
+        └─→ Ce fichier (arborescence du dossier)
+
+
+═══════════════════════════════════════════════════════════════════════
+
+🎯 WORKFLOW CLIENT (CE QU'ILS FONT)
+═══════════════════════════════════════════════════════════════════════
+
+1. 📥 RECEVOIR
+   └─→ Télécharger le ZIP ou recevoir la clé USB
+
+2. 📖 LIRE
+   └─→ Ouvrir "LISEZ-MOI-EN-PREMIER.txt"
+
+3. 📱 PRÉPARER
+   └─→ Réinitialiser le téléphone (sans compte Google)
+   └─→ Activer le débogage USB
+
+4. 🔌 CONNECTER
+   └─→ Brancher le téléphone en USB à l'ordinateur
+
+5. 💻 INSTALLER
+   └─→ Windows : Double-clic sur "INSTALLER-ZITELOU-WINDOWS.bat"
+   └─→ Mac : Double-clic sur "installer-zitelou-mac.sh"
+   └─→ Linux : Double-clic sur "installer-zitelou-linux.sh"
+
+6. ✅ CONFIGURER
+   └─→ Créer compte parent + code PIN
+   └─→ Ajouter contacts autorisés
+   └─→ Sélectionner applications
+
+⏱️ DURÉE TOTALE : ~10 MINUTES
+
+
+═══════════════════════════════════════════════════════════════════════
+
+🛠️ CE QUE FONT LES SCRIPTS AUTOMATIQUEMENT
+═══════════════════════════════════════════════════════════════════════
+
+Les 3 scripts (Windows/Mac/Linux) effectuent automatiquement :
+
+1. ✅ Détection d'ADB (Android Debug Bridge)
+2. ✅ Installation d'ADB si nécessaire
+3. ✅ Vérification de la connexion du téléphone
+4. ✅ Installation de l'application Zitelou
+5. ✅ Activation du mode Device Owner (contrôle parental)
+6. ✅ Attribution des permissions nécessaires
+7. ✅ Configuration du launcher par défaut
+8. ✅ Lancement de l'application
+
+→ LE CLIENT N'A QU'À SUIVRE LES INSTRUCTIONS À L'ÉCRAN !
+
+
+═══════════════════════════════════════════════════════════════════════
+
+📊 STATISTIQUES DU PACKAGE
+═══════════════════════════════════════════════════════════════════════
+
+Taille totale          : ~25 MB
+Nombre de fichiers     : 10 fichiers
+Langues                : Français
+Systèmes supportés     : Windows, macOS, Linux
+Téléphones compatibles : Android 7.0+ (toutes marques)
+Temps d'installation   : 5-10 minutes
+Niveau requis          : Aucune connaissance technique
+
+
+═══════════════════════════════════════════════════════════════════════
+
+⚠️ PRÉREQUIS CLIENTS (À VÉRIFIER)
+═══════════════════════════════════════════════════════════════════════
+
+MATÉRIEL
+✅ Un ordinateur (Windows/Mac/Linux)
+✅ Un câble USB fonctionnel
+✅ Un téléphone Android 7.0+
+✅ Connexion Internet (pour télécharger ADB)
+
+TÉLÉPHONE
+✅ Réinitialisé aux paramètres d'usine
+✅ AUCUN compte Google configuré
+✅ AUCUN compte Samsung configuré
+✅ Débogage USB activé
+
+→ SI UN COMPTE EST CONFIGURÉ, L'INSTALLATION ÉCHOUE !
+
+
+═══════════════════════════════════════════════════════════════════════
+
+🎓 SUPPORT CLIENT
+═══════════════════════════════════════════════════════════════════════
+
+EMAIL    : support@zitelou.com
+SITE WEB : www.zitelou.com
+FORUM    : www.zitelou.com/forum
+VIDEO    : www.zitelou.com/tutoriel
+
+PROBLÈMES FRÉQUENTS :
+
+1. "Téléphone non détecté"
+   → Vérifier câble USB, débogage USB, changer de port
+
+2. "Device Owner échoue"
+   → Téléphone pas vierge, réinitialiser sans compte
+
+3. "Script bloqué par sécurité"
+   → Windows/Mac : Clic droit > Exécuter quand même
+
+
+═══════════════════════════════════════════════════════════════════════
+
+💰 SUGGESTIONS DE PRIX
+═══════════════════════════════════════════════════════════════════════
+
+OFFRE 1 : Package DIY (téléchargement)         →  56€
+OFFRE 2 : Package USB + guide papier           →  99€
+OFFRE 3 : Téléphone complet pré-configuré      → 299€
+
+
+═══════════════════════════════════════════════════════════════════════
+
+📦 MÉTHODES DE DISTRIBUTION
+═══════════════════════════════════════════════════════════════════════
+
+MÉTHODE 1 : Téléchargement (ZIP) ⭐
+└─→ Créer un ZIP du dossier
+└─→ Héberger sur serveur/cloud
+└─→ Envoyer lien par email
+
+MÉTHODE 2 : Clé USB
+└─→ Copier le dossier sur clé USB
+└─→ Inclure avec le téléphone
+└─→ Personnaliser avec logo Zitelou
+
+MÉTHODE 3 : Email direct
+└─→ Attacher le ZIP si < 25 MB
+└─→ Ou utiliser WeTransfer
+
+
+═══════════════════════════════════════════════════════════════════════
+
+🔄 MISES À JOUR
+═══════════════════════════════════════════════════════════════════════
+
+Pour mettre à jour vers une nouvelle version de Zitelou :
+
+1. Remplacer zitelou.apk par la nouvelle version
+2. Mettre à jour les numéros de version dans les documents
+3. Re-zipper le package
+4. Redistribuer aux clients
+
+→ LES SCRIPTS N'ONT PAS BESOIN D'ÊTRE MODIFIÉS
+
+
+═══════════════════════════════════════════════════════════════════════
+
+✅ CHECKLIST AVANT DISTRIBUTION
+═══════════════════════════════════════════════════════════════════════
+
+TECHNIQUE
+□ APK testé sur 3 téléphones différents
+□ Scripts testés sur Windows, Mac, Linux
+□ Aucun crash ou bug majeur
+
+DOCUMENTATION
+□ Contacts support corrects (email, site web)
+□ URLs vers votre site à jour
+□ Numéro de version cohérent
+
+SUPPORT
+□ Email support configuré
+□ Réponses types préparées
+□ FAQ sur le site web
+
+LOGISTIQUE
+□ Méthode de distribution choisie
+□ Prix fixés
+□ Moyen de paiement configuré
+
+
+═══════════════════════════════════════════════════════════════════════
+
+🎉 VOUS ÊTES PRÊT À VENDRE !
+═══════════════════════════════════════════════════════════════════════
+
+Ce package est 100% prêt à être distribué à vos clients.
+
+Les clients n'ont besoin d'AUCUNE connaissance technique.
+Tout est automatisé et expliqué pas à pas.
+
+Installation complète en 10 minutes chrono ! ⏱️
+
+
+═══════════════════════════════════════════════════════════════════════
+
+📞 CONTACT TECHNIQUE (POUR VOUS)
+═══════════════════════════════════════════════════════════════════════
+
+Pour questions techniques ou support revendeurs :
+📧 dev@zitelou.com
+
+
+═══════════════════════════════════════════════════════════════════════
+
+Zitelou - Le téléphone sécurisé pour enfants
+Version 1.0 - Octobre 2025
+
+Créé avec ❤️ pour des parents tranquilles et des enfants protégés
+
+═══════════════════════════════════════════════════════════════════════
